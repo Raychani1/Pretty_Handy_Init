@@ -1,0 +1,11 @@
+.mypy_cache
+.pytest_cache
+.vscode
+env
+venv
+.gitignore
+.isort.cfg
+.pre-commit-config.yaml
+Dockerfile
+pretty_handy_init.ps1
+pretty_handy_init.sh
