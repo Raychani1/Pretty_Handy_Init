@@ -1,0 +1,9 @@
+.mypy_cache
+.pytest_cache
+.vscode
+env
+venv
+.gitignore
+.isort.cfg
+.pre-commit-config.yaml
+Dockerfile
