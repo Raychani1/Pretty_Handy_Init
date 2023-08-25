@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple steps.
 
 #### **Prerequisites**
 
-* **Docker** - To execute this project it is recommended to run it in a more convenient Dockerized environment. For this purpose [**Docker**](Docker-url) or [**Docker Desktop**](https://www.docker.com/products/docker-desktop/) is recommended. The following product can be downloaded from their website or installed through a package manager.
+* **Docker** - To execute this project it is recommended to run it in a more convenient Dockerized environment. For this purpose [**Docker**](https://www.docker.com/) or [**Docker Desktop**](https://www.docker.com/products/docker-desktop/) is recommended. The following product can be downloaded from their website or installed through a package manager.
 
 #### **Setup Steps**
 
@@ -81,7 +81,7 @@ Files [**example_pretty_handy_init.sh**](https://github.com/Raychani1/Pretty_Han
 
 ## **License**
 
-Distributed under the **MIT License**. See [LICENSE](https://github.com/<user>/<repo>/blob/main/LICENSE) for more information.
+Distributed under the **MIT License**. See [LICENSE](https://github.com/Raychani1/Pretty_Handy_Init/blob/main/LICENSE) for more information.
 
 <!-- Variables -->
 
